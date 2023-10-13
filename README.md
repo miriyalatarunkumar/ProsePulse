@@ -1,4 +1,4 @@
-# Production-ProsePulse
+# ProsePulse
 
 📜ProsePulse✒️ - Fully functional MERN stack Blogging web application.
 
